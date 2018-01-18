@@ -1,5 +1,3 @@
-  
+  # This is where code for the RLQ analysis for coral functional groups will go
 
-# Commit this please
-
-How about this 
+lalala I amadding code i don't want '

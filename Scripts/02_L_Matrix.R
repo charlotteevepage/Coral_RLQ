@@ -3,6 +3,7 @@
 # #########
 # Site (rows) x species abundance (columns)
 
+
 # a) Rename species in GBR surveys according to those in the coraltraits.database
 # b) Downloads traits of interest 
 # c) Determine if traits are numeric or if they are factors. 
